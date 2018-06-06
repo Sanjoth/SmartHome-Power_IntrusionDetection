@@ -1,9 +1,9 @@
-# ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) Intelligent	Power	Solution &	Intrusion	Detection
+# ![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png) Intelligent	Power	Solution &	Intrusion	Detection System
 ### Department	of	Computer	Science	and	Engineering, Sharda University
 ### Tinkering	Lab	– 2nd	Year
 #### 	Mentor:	Prof.	Ishan	Ranjan (Head of Department, CSE)
 #### April,	2016
-
+# ![](IoT_Power.png)
 
 ---
 ## ACKNOWLEDGEMENT
