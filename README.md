@@ -46,6 +46,11 @@ pip install temboo
 * FileContents
 * Root
 
+#### Requirements
+* Python 3
+* Temboo SDK
+* Dropbox Account
+* Active Internet Connection in Arduino
     
 ## WORKING
     • The output of PIR Sensor will be connected to one of the analog ports of the Arduino Yun.
